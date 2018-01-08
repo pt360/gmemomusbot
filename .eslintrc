@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+
+  "globals": {},
+
+  "rules": {
+    "no-console": 'off',
+    "no-param-reassign": 'off'
+  }
+}

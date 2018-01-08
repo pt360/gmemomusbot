@@ -1,0 +1,5 @@
+.env
+*.log
+coverage
+logs
+node_modules
